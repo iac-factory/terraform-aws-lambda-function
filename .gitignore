@@ -1,3 +1,9 @@
+artifacts
+distribution
+node_modules
+
+!./**/*.js
+
 # Local .terraform directories
 **/.terraform/*
 
